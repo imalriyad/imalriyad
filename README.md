@@ -1,4 +1,5 @@
-![banner](https://github.com/imalriyad/imalriyad/assets/111139525/b78a7025-3ddc-4703-8180-8b11f4e7913e)
+![banner](https://github.com/imalriyad/imalriyad/assets/111139540/4bef1b99-1bec-49b9-8abf-d3cf738196de)
+
 
 
 <h1 align="center">Hi 👋, I'm Al Riyad</h1>
