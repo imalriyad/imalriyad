@@ -19,6 +19,16 @@
 
 ![imalriyad's Stats](https://github-readme-stats.vercel.app/api?username=imalriyad&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
+
+
+![imalriyad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imalriyad&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+<h3 align="left">Connect with me:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imalriyad/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/imalriyad)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/imalriyad)
+
 ## My Recent projects
 
 ### ContestBud
@@ -31,7 +41,7 @@
 
 - All the contest has Deadline and its daynamic
 
-- I have used React, tailwind css, mongodb, nodejs,firebase
+-  I've used these technologies Firebase, MongoDB, Node.js, Tailwind CSS, jwt,and React
 
 - Live Link : https://contestbud-e8389.web.app
   
@@ -41,19 +51,20 @@
 
 - User can order with their needed services they can cheak order history or its paid or unpaid they also can login logout
 
-- I have used these techlogy React, tailwind css, mongodb, nodejs,firebase
+-  I've used these technologies Firebase, MongoDB, Node.js, Tailwind CSS, jwt,and React
 
 - Live Link : https://car-doctorss.netlify.app
 
 
-![imalriyad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imalriyad&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+ ### CoffeStore - a online coffe stall
 
-<h3 align="left">Connect with me:</h3>
+- CoffeStore is a Website where user can order various coffe.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imalriyad/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/imalriyad)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/imalriyad)
+- There are features for adding coffee; a gallery of coffee
+ 
+- There is a gallery of different different coffe
+-  I've used these technologies Firebase, MongoDB, Node.js, Tailwind CSS, and React
 
-
+- Live Link : https://coffe-store-7a720.web.app
 
 
