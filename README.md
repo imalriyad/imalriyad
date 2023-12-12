@@ -37,6 +37,19 @@
 
 ## My Recent projects
 
+### FoodFlow MERN project with jwt token
+
+- User can login and logout trough email and pasword or google. for this features i have used firebase and for stroring user credentials i hvae used mongodb database also i for creating with email/password and social login cookies and stroing it to browser cookie.
+
+- User can see top selling foods item in home page . Its showed by most orderd food .
+
+- In All foods page , You can get foods item by searching with foods item name , Also you can see there is a feature of pagination. 
+
+- User can Add foodItems from add a item route . This route is also private so you have to logged in and also a valid user with jwt token
+
+- Live Link : https://foodflow-6447d.web.app
+
+
 ### ContestBud
 
 - Contest Bud is a MEARN stack website where users may participate in contests.
@@ -61,20 +74,3 @@
 
 - Live Link : https://car-doctorss.netlify.app
 
-### CoffeStore - a online coffe stall
-
-- CoffeStore is a Website where user can order various coffe.
-
-- There are features for adding coffee; a gallery of coffee
-
-- There is a gallery of different different coffe
-- I've used these technologies Firebase, MongoDB, Node.js, Tailwind CSS, and React
-
-- Live Link : https://coffe-store-7a720.web.app
-
-
-<div class='container' style='display:flex'>
-
-
-
-</div>
