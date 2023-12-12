@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,firebase,tailwind,html,css,figma,vscode,github,)](https://skillicons.dev)
 
 
-<div align="center">
+<div style="display: flex; flex-direction: row;" align="center ">
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap:10px">
 
