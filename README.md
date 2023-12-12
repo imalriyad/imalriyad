@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,firebase,tailwind,html,css,figma,vscode,github,)](https://skillicons.dev)
 
-<div class='container' style='display:flex'>
+<div style="display: flex; flex-direction: row;" align="center ">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imalriyad&theme=prussian)](https://git.io/streak-stats)
 
@@ -73,3 +73,8 @@
 - Live Link : https://coffe-store-7a720.web.app
 
 
+<div class='container' style='display:flex'>
+
+
+
+</div>
