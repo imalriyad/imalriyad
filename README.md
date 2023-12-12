@@ -15,10 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,firebase,tailwind,html,css,figma,vscode,github,)](https://skillicons.dev)
 
-
 <div style="display: flex; flex-direction: row;" align="center ">
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap:10px">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imalriyad&theme=prussian)](https://git.io/streak-stats)
 
@@ -26,18 +23,11 @@
 
 </div>
 
-</div>
-
-
 <div align="center" >
 
 ![imalriyad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imalriyad&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 </div>
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 
@@ -49,7 +39,7 @@
 
 ### ContestBud
 
-- Contest Bud is a  MEARN stack website where users may participate in contests.
+- Contest Bud is a MEARN stack website where users may participate in contests.
 
 - The creator position has the ability to establish new contest
 
@@ -57,30 +47,27 @@
 
 - All the contest has Deadline and its daynamic
 
--  I've used these technologies Firebase, MongoDB, Node.js, Tailwind CSS, jwt,and React
+- I've used these technologies Firebase, MongoDB, Node.js, Tailwind CSS, jwt,and React
 
 - Live Link : https://contestbud-e8389.web.app
-  
 
- ### Car Dcotor 
+### Car Dcotor
+
 - Car Dcotor is a Website where car owners will can order for varous car service such as Engine Oil Change ,Battery Charge,Full car Repair and many more .
 
 - User can order with their needed services they can cheak order history or its paid or unpaid they also can login logout
 
--  I've used these technologies Firebase, MongoDB, Node.js, Tailwind CSS, jwt,and React
+- I've used these technologies Firebase, MongoDB, Node.js, Tailwind CSS, jwt,and React
 
 - Live Link : https://car-doctorss.netlify.app
 
-
- ### CoffeStore - a online coffe stall
+### CoffeStore - a online coffe stall
 
 - CoffeStore is a Website where user can order various coffe.
 
 - There are features for adding coffee; a gallery of coffee
- 
+
 - There is a gallery of different different coffe
--  I've used these technologies Firebase, MongoDB, Node.js, Tailwind CSS, and React
+- I've used these technologies Firebase, MongoDB, Node.js, Tailwind CSS, and React
 
 - Live Link : https://coffe-store-7a720.web.app
-
-
