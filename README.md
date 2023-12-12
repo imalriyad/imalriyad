@@ -15,19 +15,26 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,firebase,tailwind,html,css,figma,vscode,github,)](https://skillicons.dev)
 
-<div align="center">
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=imalriyad&theme=prussian" alt="GitHub Streak" />
-  </a> 
-  <img src="https://github-readme-stats.vercel.app/api?username=imalriyad&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="imalriyad's Stats" />
-</div>
-</div>
 
 <div align="center">
-<!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalriyad&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="imalriyad's Top Languages" style="width: 100%" />
+
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap:10px">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imalriyad&theme=prussian)](https://git.io/streak-stats)
+
+![imalriyad's Stats](https://github-readme-stats.vercel.app/api?username=imalriyad&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+
 </div>
+
+</div>
+
+
+<div align="center" >
+
+![imalriyad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imalriyad&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
 
 
 
