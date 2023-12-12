@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,firebase,tailwind,html,css,figma,vscode,github,)](https://skillicons.dev)
 
-<div style="display: flex; flex-direction: row;" align="center ">
+<div class='container' style='display:flex'>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imalriyad&theme=prussian)](https://git.io/streak-stats)
 
@@ -71,3 +71,5 @@
 - I've used these technologies Firebase, MongoDB, Node.js, Tailwind CSS, and React
 
 - Live Link : https://coffe-store-7a720.web.app
+
+
