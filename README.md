@@ -1,4 +1,7 @@
-![banner](https://github.com/imalriyad/imalriyad/assets/111139540/4bef1b99-1bec-49b9-8abf-d3cf738196de)
+
+![Al Riyad](https://github.com/imalriyad/imalriyad/assets/111139540/860be509-9a6f-40ab-b00a-e31cc91dbb28)
+
+
 
 <h1 align="center">Hi 👋, I'm Al Riyad</h1>
 <p align="center">Hey there! 👋 I'm Al Riyad, a dedicated MERN Stack Web Developer with a fervor for crafting seamless and dynamic web applications. My journey in the world of coding began with a curiosity that has now evolved into a full-blown passion.</p>
