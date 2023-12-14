@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Al Riyad</h1>
-<p align="center">Hey there! 👋 I'm Al Riyad, a dedicated MERN Stack Web Developer with a fervor for crafting seamless and dynamic web applications. My journey in the world of coding began with a curiosity that has now evolved into a full-blown passion.</p>
+<p align="center">Hey there! 👋 I'm Al Riyad, a dedicated Front-end Web Developer with a fervor for crafting seamless and dynamic web applications. My journey in the world of coding began with a curiosity that has now evolved into a full-blown passion.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalriyad&label=Profile%25views&color=0e75b6&style=flat" alt="imalriyad" /> </p>
 
