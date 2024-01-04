@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 💬 Ask me about **Javascript,React**
+- 💬 Ask me about **Javascript,React.js**
 
 - 📫 How to reach me **imalriyad@gmail.com**
 
