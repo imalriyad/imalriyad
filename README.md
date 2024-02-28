@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Al Riyad</h1>
-<p align="center">Greetings, I'm Al Riyad, a Front-end React.js Web Developer with a passion for creating seamless UI/UX experiences. I am proficient in React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, Firebase, Socket.IO, JSON Web Token (JWT), CSS3, and HTML5. I am currently pursuing computer science engineering at Kushtia Polytechnic Institute.</p>
+<p align="center">Greetings, I'm Al Riyad, a Front-end React.js Web Developer with a passion for creating seamless UI/UX experiences. I am Proficient in React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, Firebase, Socket.IO, JSON Web Token (JWT), CSS3, and HTML5. I am currently pursuing computer science engineering at Kushtia Polytechnic Institute.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalriyad&label=Profile%25views&color=0e75b6&style=flat" alt="imalriyad" /> </p>
 
