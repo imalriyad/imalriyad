@@ -4,7 +4,7 @@
 ![imalriyad@gmail com](https://github.com/imalriyad/imalriyad/assets/111139540/018d7470-ffd7-4ae1-ab5f-1c1fb4e2735c)
 
 
-<p align="center">Greetings, I'm Al Riyad, a Front-end React.js Web Developer with a passion for creating seamless UI/UX experiences. I am Proficient in React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, Firebase, Socket.IO, JSON Web Token (JWT), CSS3, and HTML5. I am currently pursuing computer science engineering at Kushtia Polytechnic Institute</p>
+<p align="center">Greetings, I'm Al Riyad, a Front-end React.js Web Developer with a passion for creating seamless UI/UX experiences. I am Proficient in React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, Firebase, Socket.IO, JSON Web Token (JWT), CSS3, and HTML5. I am currently pursuing computer science engineering at Kushtia Polytechnic Institute.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalriyad&label=Profile%25views&color=0e75b6&style=flat" alt="imalriyad" /> </p>
 
