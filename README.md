@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalriyad&label=Profile%25views&color=0e75b6&style=flat" alt="imalriyad" /> </p>
 
-- 🌱 I’m currently learning **Redux Toolkit**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Javascript,React.js**
 
