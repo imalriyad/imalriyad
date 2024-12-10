@@ -1,11 +1,7 @@
 
+![alriyad](https://github.com/user-attachments/assets/916282cb-f2ad-42d0-a7aa-1cf6dec900df)
 
-![Al Riyad - MERN Stack Web Developer](https://github.com/user-attachments/assets/927ee604-7ee4-4260-b7d0-9f419d58f3c2)
-
-
-
-
-<p align="center">Greetings, I'm MERN Stack Web Developer with a passion for creating seamless UI/UX experiences. I am Proficient in React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, Firebase, Socket.IO, JSON Web Token (JWT), CSS3, and HTML5. I am currently pursuing computer science engineering at Kushtia Polytechnic Institute.</p>
+<p align="center">Greetings, I'm MERN Stack Web Developer passionate about creating seamless UI/UX experiences. I am Proficient in React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, Firebase, Socket.IO, JSON Web Token (JWT), CSS3, and HTML5. I am currently pursuing computer science engineering at Kushtia Polytechnic Institute.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalriyad&label=Profile%25views&color=0e75b6&style=flat" alt="imalriyad" /> </p>
 
