@@ -1,7 +1,21 @@
 
 ![alriyad](https://github.com/user-attachments/assets/916282cb-f2ad-42d0-a7aa-1cf6dec900df)
 
-<p align="center">Greetings, I'm Full Stack Web Developer passionate about creating seamless UI/UX experiences. I bring expertise in React.js, JavaScript, Node.js, Express.js, Redux Toolkit, PostgreSQL, Prisma, MongoDB, Mongoose, Tailwind CSS, Firebase, Socket.IO, JSON Web Token (JWT), CSS3, and HTML5. I have completed my Computer Science Engineering degree from Kushtia Polytechnic Institute.</p>
+## Hi, I’m a Full Stack Web Developer
+
+I’m focused on building fast, scalable, and user-first applications that deliver great experiences.
+
+### Frontend  
+React.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, Redux Toolkit
+
+### Backend  
+Node.js, Nest.js, Express.js, Socket.IO, Firebase, JSON Web Token (JWT)
+
+### Databases  
+PostgreSQL, Prisma, MongoDB, Mongoose
+
+### AI & Tools  
+LangChain, real-time systems, clean architecture principles
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalriyad&label=Profile%25views&color=0e75b6&style=flat" alt="imalriyad" /> </p>
 
